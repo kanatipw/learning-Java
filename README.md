@@ -1,1 +1,1 @@
-#Learning Repo for JAva
+# Learning Repo for Java
